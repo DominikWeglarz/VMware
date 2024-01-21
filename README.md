@@ -1,2 +1,2 @@
-# VMware
-VMware additional resources to help my students 
+# VMware resources, info, links
+Additional VMware resources to help my students achieve VCP or solve production issues
