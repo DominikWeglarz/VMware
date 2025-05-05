@@ -62,7 +62,7 @@ Enter proper value for 'IPAddress' (Provide comma separated values for multiple 
 
 Enter proper value for 'Email' [Default value : email@acme.com] : 
 
-Enter proper value for 'Hostname' (Provide comma separated values for multiple Hostname entries) [Enter valid Fully Qualified Domain Name(FQDN), For Example : example.domain.com] : <b1>sa-vcsa-01.vclass.local </b1>
+Enter proper value for 'Hostname' (Provide comma separated values for multiple Hostname entries) [Enter valid Fully Qualified Domain Name(FQDN), For Example : example.domain.com] : sa-vcsa-01.vclass.local
 
 Enter proper value for VMCA 'Name' :VMCA      
 
